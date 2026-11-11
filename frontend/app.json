@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Student Management",
+    "slug": "student-management",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": { "supportsTablet": true },
+    "android": { "package": "com.school.sms" },
+    "plugins": ["expo-secure-store"]
+  }
+}
